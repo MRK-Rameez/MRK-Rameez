@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MRK-Rameez
+/*- 👋 Hi, I’m @MRK-Rameez
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JAVA script and this is just the beginning for me and I found that the javascript is one of the best and interesting programming language. 
 - 
-I have create a tic tac toe game as a practice project 
+I have create a tic tac toe game as a practice project */
 
 <!---
 MRK-Rameez/MRK-Rameez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
